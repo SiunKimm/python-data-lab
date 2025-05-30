@@ -1,6 +1,6 @@
 # python-data-preprocessing-lab
 
-📊 다양한 형태의 데이터 전처리를 실습하는 실험실형 프로젝트입니다.  
+다양한 형태의 데이터 전처리를 실습하는 실험실형 프로젝트입니다.  
 NumPy, Pandas, Matplotlib, Seaborn, Folium, Selenium, BeautifulSoup, OpenCV, FinanceDataReader, Kiwi 형태소 분석기 등 다양한 라이브러리를 활용하여 데이터를 수집하고 전처리 및 시각화합니다.
 
 ---
